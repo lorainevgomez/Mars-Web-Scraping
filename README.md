@@ -1,6 +1,9 @@
 # INSTRUCTIONS
 
 Deliverable 1 Instructions
+
+
+
 1.Create a new Jupyter notebook named mars_data_challenge_part_1.ipynb.
 
 2.Scrape the Mars News (Links to an external site.) website by using Splinter and Beautiful Soup. Specifically, scrape the title and preview text, or summary text, of each article on the landing page.
